@@ -1,0 +1,11 @@
+name: gross_debt_-_eurostat
+title: Gross debt - Eurostat
+account: symeneses
+server: shinyapps.io
+appId: 167022
+bundleId: 762847
+url: https://symeneses.shinyapps.io/gross_debt_-_eurostat/
+when: 1490448498.98933
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
