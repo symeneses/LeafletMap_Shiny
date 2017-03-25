@@ -1,0 +1,3 @@
+[submodule "Slides"]
+	path = Slides
+	url = git://LeafletMap_Shiny.com/git/Slides.git
