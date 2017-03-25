@@ -1,2 +1,3 @@
 [submodule "Slides"]
-	url = git://github.com/symeneses/Slides.git
+	path = Slides
+	url = url = git@github.com:symeneses/Slides.git
