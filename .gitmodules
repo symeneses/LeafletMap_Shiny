@@ -1,3 +1,3 @@
-[submodule "Slides"]
+[submodule "Slides.gh-pages"]
 	path = Slides
 	url = https://github.com/symeneses/Slides.git
